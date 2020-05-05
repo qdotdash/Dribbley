@@ -223,7 +223,7 @@ Rigidbody2D:
   m_Mass: 1.1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1.4
+  m_GravityScale: 1.8
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -257,7 +257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25aa191ad4fc6754ab156c77d4fbe1ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tapForce: 300
+  tapForce: 345
   tiltSmooth: 5
   startPos: {x: 1.179527, y: 4.65, z: -56.56604}
   tapSound: {fileID: 2132655295}
@@ -816,8 +816,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Prefab: {fileID: 5003152625693699775, guid: e1ef95ed76f1fb94d90e341e92da1718, type: 3}
   poolSize: 10
-  shiftSpeed: 2
-  spawnRate: 2
+  shiftSpeed: 2.5
+  spawnRate: 1.6
   ySpawnRange:
     min: -4.4
     max: -0.26

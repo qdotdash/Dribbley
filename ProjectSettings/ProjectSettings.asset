@@ -165,7 +165,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.qdotdash.dribbley
   buildNumber: {}
-  AndroidBundleVersionCode: 1
+  AndroidBundleVersionCode: 2
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1

@@ -152,7 +152,7 @@ public class GameManager : MonoBehaviour {
 	}
 
 	public void Githublink(){
-		Application.OpenURL("https://github.com/qdotdash/Corona_Go_A_Game.git");
+		Application.OpenURL("https://github.com/qdotdash/Dribbley.git");
 	}
 
 	public void Soundeffectslink(){
